@@ -28,11 +28,11 @@ We implemented and compared five models using different combinations of optimize
 
 | Training Instance    | Optimizer Used | Regularizer Used | Epochs | Early Stopping               | Layers | Learning Rate        | Accuracy | F1 Score | ROC AUC | Precision |
 |----------------------|----------------|------------------|--------|------------------------------|--------|----------------------|----------|----------|---------|-----------|
-| Logistic Regression  | None           | None             | None   | No                           | 3      | None                 | 0.94     | 0.91     | 0.91    | 0.91      |
+| Logistic Regression  | solver - newton-cg           |  c -  10           |  200  | No                           | 3      | None                 | 0.94     | 0.91     | 0.91    | 0.91      |
 | Simple NN Model      | Adam           | None             | 30     | No                           | 3      | None                 | 0.91     | 0.91     | 0.85    | 0.94      |
-| Instance 1           | Adam           | L1               | 20     | val_loss (patience = 7)      | 3      | 0.005                | 0.94     | 0.86     |   0.85  | 0.94      |
-| Instance 2           | RMSprop        | L2               | 20     | val_accuracy (patience = 6)  | 3      | 0.1                  | 0.91     | 0.88    | **0.97**     | 0.79      |
-| Instance 3           | SGD            | L1               | 20     | val_loss (patience = 5)      | 3      | 0.001, momentum = 0.8| 0.55     | 0.12     | 0.50    | 0.17      |
+| Instance 1           | Adam           | L1               | 20     | val_loss (patience = 7)      | 3      | 0.005                | 0.94     | 0.91     |   0.98  | 0.91      |
+| Instance 2           | RMSprop        | L2               | 20     | val_accuracy (patience = 6)  | 3      | 0.1                  | 0.64     | 0.78    | **0.93**     | 0.64      |
+| Instance 3           | SGD            | L1               | 20     | val_loss (patience = 5)      | 3      | 0.001, momentum = 0.8| 0.70     | 0.29     | 0.77    | 0.67      |
 
 ---
 
@@ -40,8 +40,8 @@ We implemented and compared five models using different combinations of optimize
 
 - **Logistic Regression**: Performed well, proving the dataset is linearly separable.
 - **Simple NN (Adam, no reg)**: Matched baseline — indicating regularization is needed for improvement.
-- **Best Model: Instance 2 (RMSProp + L2)**: Best **ROC AUC (0.97)** and solid overall scores. Regularization + tuned LR helped generalization.
-- **Instance 3 (SGD + L1 + Momentum)**: Worst accuracy and F1. Despite decent ROC AUC, the model failed to classify properly — slow convergence or threshold issue.
+- **Best Model: Instance 2 (RMSProp + L2)**: Best **ROC AUC (0.93)** and solid overall scores. Regularization + tuned LR helped generalization.
+- **Instance 3 (SGD + L1 + Momentum)**: Worst precision and F1. Despite decent ROC AUC, the model failed to classify properly — slow convergence or threshold issue.
 
 ---
 
