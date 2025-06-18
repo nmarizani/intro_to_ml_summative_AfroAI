@@ -60,7 +60,7 @@ Adam & SGD setups, underperform unless significantly tuned.
 This table outlines how to load both **Logistic Regression** and **Neural Network** models used in this project.
 
 | 🔍 Model Type                | 📂 Load Command                                  | 🧾 Format |
-|------------------------|----------------------------------------------------|--------------------------------------------------|-----------|
+|------------------------|--------------------------------------------------|-----------|
 | **Logistic Regression** (Scikit-learn) | `joblib.load('saved_models/model.pkl')`         | `.pkl`    |
 | **Neural Network** (TensorFlow) | `load_model('saved_models/model.h5')`           | `.h5`     |
 
