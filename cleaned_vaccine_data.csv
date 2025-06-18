@@ -1,0 +1,267 @@
+"Seasonal influenza vaccine uptake among frontline healthcare workers in England 2023 to 2024: staff groups, influenza vaccinations (trusts)",,,,,,,,,,,,,,,,,,
+Final end of season data for February 2024: cumulative data from 1 September 2023 to 29 February 2024,,,,,,,,,,,,,,,,,,
+This worksheet contains one table.,,,,,,,,,,,,,,,,,,
+Notes,,,,,,,,,,,,,,,,,,
+"Note 1: This data should be interpreted with caution as some organisations have only entered vaccination data for one of the programmes, or one aspect of the programmes, therefore each section has its own response summary.",,,,,,,,,,,,,,,,,,
+Note 2: The national figures are provisional and may vary slightly following further data validation checks.,,,,,,,,,,,,,,,,,,
+"Note 3: Data provided is from acute, ambulance, care, community, foundation, mental health trusts and independent sector healthcare providers (ISHCPs).",,,,,,,,,,,,,,,,,,
+Note 4: This data is cumulative covering vaccinations administered from 1 September 2023 to 29 February 2024 inclusive for flu vaccinations.,,,,,,,,,,,,,,,,,,
+"Note 5: Since the 1 September 2021, COVID-19 and seasonal flu vaccine uptake in frontline HCWs have been reported alongside each other in this report. For COVID-19 vaccine uptake in frontline HCWs from 8 December 2020 to 31 August 2021 please see the reports on GOV.UK at: https://www.gov.uk/government/publications/covid-19-vaccine-uptake-in-healthcare-workers",,,,,,,,,,,,,,,,,,
+"Note 6: For definitions on the key differences between the data on vaccine uptake in healthcare workers from NHSE and UKHSA, please see the COVID-19 vaccine uptake in healthcare workers: explainer document on GOV.UK at: https://www.gov.uk/government/publications/covid-19-vaccine-uptake-in-healthcare-workers/covid-19-vaccine-uptake-in-healthcare-workers-explainer ",,,,,,,,,,,,,,,,,,
+"Note 7: DNE Organisation ""Do/Did not exist""",,,,,,,,,,,,,,,,,,
+Note 8: ---* Three dashes and an asterisk indicates that organisations responded but no data was inputted or available,,,,,,,,,,,,,,,,,,
+Note 9:  – A dash indicates that an organisation is a 'Non-Responder'.,,,,,,,,,,,,,,,,,,
+Note 10: ** Two asterisks indicates that numbers fewer than 5 are suppressed.,,,,,,,,,,,,,,,,,,
+Data source: UKHSA ImmForm reporting website. Data is submitted by NHS Trusts.,,,,,,,,,,,,,,,,,,
+"Influenza vaccine uptake monitoring programme, UK Health Security Agency (UKHSA)",,,,,,,,,,,,,,,,,,
+Table 5: Influenza vaccination by staff group,,,,,,,,,,,,,,,,,,
+Region code,Region,Org code,Trust name,"All frontline HCWs:
+involved with direct patient care (n)","All frontline HCWs:
+vaccinated (n)","All frontline HCWs:
+percentage vaccine uptake","All doctors:
+involved with direct patient care (n)","All doctors:
+vaccinated (n)","All doctors:
+percentage vaccine uptake","Qualified nurses  (including GP practice nurses):
+involved with direct patient care (n)","Qualified nurses  (including GP practice nurses):
+vaccinated (n)","Qualified nurses  (including GP practice nurses):
+Percentage vaccine uptake","All other professionally qualified clinical staff:
+involved with direct patient care (n)","All other professionally qualified clinical staff:
+vaccinated (n)","All other professionally qualified clinical staff:
+percentage vaccine uptake","All support staff:
+involved with direct patient care (n)","All support staff:
+vaccinated (n)","All support staff:
+percentage vaccine uptake"
+Y61,East of England Commissioning Region,RC9,Bedfordshire Hospitals NHS Foundation Trust,"7,911","4,077",51.5,"1,506",856,56.8,"2,839","1,585",55.8,"1,025",564,55.0,"2,541","1,072",42.2
+Y61,East of England Commissioning Region,RGT,Cambridge University Hospitals NHS Foundation Trust,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y61,East of England Commissioning Region,RT1,Cambridgeshire And Peterborough NHS Foundation Trust,"4,529","1,302",28.7,209,65,31.1,"1,210",370,30.6,"1,021",347,34.0,"2,089",520,24.9
+Y61,East of England Commissioning Region,RYV,Cambridgeshire Community Services NHS Trust,"2,000","1,109",55.5,108,67,62.0,815,438,53.7,438,272,62.1,639,332,52.0
+Y61,East of England Commissioning Region,RWH,East And North Hertfordshire NHS Trust,"5,250","1,685",32.1,"1,010",326,32.3,"2,015",749,37.2,785,241,30.7,"1,440",369,25.6
+Y61,East of England Commissioning Region,NAX,East Coast Community Healthcare C.I.C,450,370,82.2,1,1,100.0,161,146,90.7,122,83,68.0,166,140,84.3
+Y61,East of England Commissioning Region,RYC,East Of England Ambulance Service NHS Trust,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y61,East of England Commissioning Region,RDE,East Suffolk And North Essex NHS Foundation Trust,"7,690","2,431",31.6,"1,234",380,30.8,"3,347","1,097",32.8,840,348,41.4,"2,269",606,26.7
+Y61,East of England Commissioning Region,R1L,Essex Partnership University NHS Foundation Trust,"7,785",830,10.7,413,51,12.3,"2,243",286,12.8,"1,078",129,12.0,"4,051",364,9.0
+Y61,East of England Commissioning Region,RY4,Hertfordshire Community NHS Trust,"1,750","1,011",57.8,88,54,61.4,776,429,55.3,481,311,64.7,405,217,53.6
+Y61,East of England Commissioning Region,RWR,Hertfordshire Partnership NHS Foundation Trust,"4,403","1,102",25.0,468,146,31.2,"1,640",386,23.5,932,275,29.5,"1,185",251,21.2
+Y61,East of England Commissioning Region,RGP,James Paget University Hospitals NHS Foundation Trust,"3,919","1,650",42.1,492,230,46.7,"1,264",576,45.6,368,167,45.4,"1,795",677,37.7
+Y61,East of England Commissioning Region,RAJ,Mid And South Essex NHS Foundation Trust,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y61,East of England Commissioning Region,RD8,Milton Keynes Hospital NHS Foundation Trust,"4,124","2,954",71.6,514,408,79.4,"1,223",864,70.6,232,205,88.4,"2,155","1,477",68.5
+Y61,East of England Commissioning Region,RM1,Norfolk And Norwich University Hospitals NHS Foundation Trust,"9,417","6,315",67.1,"1,336",949,71.0,"2,905","1,782",61.3,"1,311",864,65.9,"3,865","2,720",70.4
+Y61,East of England Commissioning Region,RMY,Norfolk And Suffolk NHS Foundation Trust,"3,931","1,424",36.2,393,122,31.0,"1,328",493,37.1,765,317,41.4,"1,445",492,34.0
+Y61,East of England Commissioning Region,RY3,Norfolk Community Health And Care NHS Trust,"1,975",671,34.0,20,15,75.0,782,293,37.5,448,223,49.8,725,140,19.3
+Y61,East of England Commissioning Region,RGN,North West Anglia NHS Foundation Trust,"6,746","4,418",65.5,959,725,75.6,"2,456","1,507",61.4,765,529,69.2,"2,566","1,657",64.6
+Y61,East of England Commissioning Region,RGM,Papworth Hospital NHS Foundation Trust,"1,818",871,47.9,289,152,52.6,750,354,47.2,304,180,59.2,475,185,38.9
+Y61,East of England Commissioning Region,NMV,Partnerships In Care Ltd,"2,225",210,9.4,51,10,19.6,475,48,10.1,233,61,26.2,"1,466",91,6.2
+Y61,East of England Commissioning Region,RQW,The Princess Alexandra Hospital NHS Trust,"3,036","1,006",33.1,481,188,39.1,"1,211",399,32.9,436,133,30.5,908,286,31.5
+Y61,East of England Commissioning Region,RCX,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust","6,496","3,252",50.1,605,316,52.2,"1,152",619,53.7,352,170,48.3,"1,139",521,45.7
+Y61,East of England Commissioning Region,RWG,West Hertfordshire Teaching Hospitals NHS Trust,"5,753","2,477",43.1,789,319,40.4,"2,046",958,46.8,612,260,42.5,"2,306",940,40.8
+Y61,East of England Commissioning Region,RGR,West Suffolk NHS Foundation Trust,"4,174","2,263",54.2,628,344,54.8,"1,609",885,55.0,673,392,58.2,"1,251",640,51.2
+Y56,London Commissioning Region,RF4,"Barking, Havering And Redbridge University Hospitals NHS Trust","6,949","3,826",55.1,"1,391",802,57.7,"2,468","1,303",52.8,705,337,47.8,"2,385","1,384",58.0
+Y56,London Commissioning Region,RRP,"Barnet, Enfield And Haringey Mental Health NHS Trust","2,858",802,28.1,238,116,48.7,869,268,30.8,618,197,31.9,"1,133",221,19.5
+Y56,London Commissioning Region,R1H,Barts Health NHS Trust,"19,510","3,309",17.0,"4,417","1,062",24.0,"6,701","1,215",18.1,"1,295",271,20.9,"7,097",761,10.7
+Y56,London Commissioning Region,NQV,Bromley Healthcare C.I.C,796,459,57.7,21,11,52.4,339,207,61.1,148,94,63.5,288,147,51.0
+Y56,London Commissioning Region,TAF,Camden And Islington NHS Foundation Trust (Trust Based),"1,942",601,30.9,227,106,46.7,380,125,32.9,296,114,38.5,"1,039",256,24.6
+Y56,London Commissioning Region,RV3,Central And North West London NHS Foundation Trust,"5,825","3,155",54.2,432,210,48.6,"2,035",871,42.8,"1,728",807,46.7,"1,630","1,267",77.7
+Y56,London Commissioning Region,RYX,Central London Community Healthcare NHS Trust,"4,149","1,119",27.0,91,32,35.2,"2,131",566,26.6,934,313,33.5,993,208,20.9
+Y56,London Commissioning Region,RQM,Chelsea And Westminster Hospital NHS Foundation Trust,"7,310","2,525",34.5,"1,602",659,41.1,"2,933","1,073",36.6,628,232,36.9,"2,147",561,26.1
+Y56,London Commissioning Region,RJ6,Croydon Health Services NHS Trust,"3,607","1,795",49.8,612,330,53.9,"1,480",785,53.0,469,239,51.0,"1,046",441,42.2
+Y56,London Commissioning Region,RWK,East London NHS Foundation Trust,"7,661","2,453",32.0,768,290,37.8,"2,214",622,28.1,"1,671",581,34.8,"3,008",960,31.9
+Y56,London Commissioning Region,RVR,Epsom And St Helier University Hospitals NHS Trust,"6,950","2,995",43.1,"1,308",630,48.2,"2,277","1,075",47.2,886,483,54.5,"2,479",807,32.6
+Y56,London Commissioning Region,RP4,Great Ormond Street Hospital For Children NHS Foundation Trust,"3,958","2,449",61.9,813,486,59.8,"1,653",838,50.7,"1,066",705,66.1,426,420,98.6
+Y56,London Commissioning Region,RJ1,Guy's And St Thomas' NHS Foundation Trust,"19,015","7,257",38.2,"4,221","2,031",48.1,"6,673","2,586",38.8,"3,575","1,499",41.9,"4,546","1,141",25.1
+Y56,London Commissioning Region,RQX,Homerton Healthcare NHS Foundation Trust,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y56,London Commissioning Region,RY9,Hounslow And Richmond Community Healthcare NHS Trust,992,414,41.7,25,14,56.0,411,185,45.0,330,137,41.5,226,78,34.5
+Y56,London Commissioning Region,RYJ,Imperial College Healthcare NHS Trust,"15,549","4,905",31.5,"2,747","1,240",45.1,"4,860","1,337",27.5,"3,131",983,31.4,"4,811","1,345",28.0
+Y56,London Commissioning Region,RJZ,King's College Hospital NHS Foundation Trust,"11,768","4,880",41.5,"2,662","1,211",45.5,"4,991","2,097",42.0,"1,989",934,47.0,"2,126",638,30.0
+Y56,London Commissioning Region,RAX,Kingston Hospital NHS Trust,"2,827","1,500",53.1,559,343,61.4,"1,107",633,57.2,365,207,56.7,796,317,39.8
+Y56,London Commissioning Region,RJ2,Lewisham And Greenwich NHS Trust,"7,072","1,252",17.7,"1,089",280,25.7,"2,731",449,16.4,869,213,24.5,"2,383",310,13.0
+Y56,London Commissioning Region,RRU,London Ambulance Service NHS Trust,"4,755","1,514",31.8,5,0,0.0,19,6,31.6,"2,909",975,33.5,"1,822",533,29.3
+Y56,London Commissioning Region,R1K,London North West University Healthcare NHS Trust,"8,863","4,089",46.1,"1,619",977,60.3,"2,894","1,361",47.0,"2,472",926,37.5,"1,878",825,43.9
+Y56,London Commissioning Region,RP6,Moorfields Eye Hospital NHS Foundation Trust,"1,652",700,42.4,362,180,49.7,482,208,43.2,356,153,43.0,452,159,35.2
+Y56,London Commissioning Region,RAT,North East London NHS Foundation Trust,"5,687","2,013",35.4,274,108,39.4,"2,204",765,34.7,"2,444",841,34.4,765,299,39.1
+Y56,London Commissioning Region,RAP,North Middlesex University Hospital NHS Trust,"4,032",989,24.5,700,322,46.0,"1,683",349,20.7,622,196,31.5,"1,027",122,11.9
+Y56,London Commissioning Region,NTN,Priory Group Limited,"2,451",173,7.1,98,11,11.2,434,25,5.8,452,70,15.5,"1,467",67,4.6
+Y56,London Commissioning Region,RAL,Royal Free London NHS Foundation Trust,"11,232","4,638",41.3,"3,610","1,529",42.4,"3,313","1,502",45.3,"1,373",616,44.9,"2,936",991,33.8
+Y56,London Commissioning Region,RAN,Royal National Orthopaedic Hospital NHS Trust,"1,520",555,36.5,249,106,42.6,465,158,34.0,555,208,37.5,251,83,33.1
+Y56,London Commissioning Region,RV5,South London And Maudsley NHS Foundation Trust,"4,405","1,432",32.5,505,257,50.9,"1,047",312,29.8,"1,595",592,37.1,"1,258",271,21.5
+Y56,London Commissioning Region,RQY,South West London And St George's Mental Health NHS Trust,"2,542",839,33.0,249,104,41.8,748,300,40.1,568,140,24.6,977,295,30.2
+Y56,London Commissioning Region,RJ7,St George's Healthcare NHS Trust,"10,921","5,719",52.4,"2,333","1,391",59.6,"4,023","2,102",52.2,"2,039","1,105",54.2,"2,526","1,121",44.4
+Y56,London Commissioning Region,RNK,Tavistock And Portman NHS Foundation Trust,414,125,30.2,46,23,50.0,14,5,35.7,299,86,28.8,55,11,20.0
+Y56,London Commissioning Region,RAS,The Hillingdon Hospitals NHS Foundation Trust,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y56,London Commissioning Region,RPY,The Royal Marsden NHS Foundation Trust,"3,633","1,282",35.3,667,213,31.9,"1,441",520,36.1,968,405,41.8,557,144,25.9
+Y56,London Commissioning Region,RKE,The Whittington Health NHS Trust,"3,028","1,167",38.5,472,290,61.4,"1,023",363,35.5,906,343,37.9,627,171,27.3
+Y56,London Commissioning Region,RRV,University College London Hospitals NHS Foundation Trust,"7,158","3,920",54.8,"1,749","1,374",78.6,"2,825","1,286",45.5,"1,421",791,55.7,"1,163",469,40.3
+Y56,London Commissioning Region,RKL,West London NHS Trust,"4,332","1,189",27.4,337,122,36.2,"1,262",364,28.8,797,262,32.9,"1,936",441,22.8
+Y56,London Commissioning Region,NNV,"Your Healthcare, Hollyfield House",382,202,52.9,5,3,60.0,154,102,66.2,101,58,57.4,122,39,32.0
+Y60,Midlands Commissioning Region,RXT,Birmingham And Solihull Mental Health NHS Foundation Trust,"4,785",807,16.9,349,71,20.3,"1,558",298,19.1,619,129,20.8,"2,259",309,13.7
+Y60,Midlands Commissioning Region,RYW,Birmingham Community Healthcare NHS Trust,"5,778","1,845",31.9,244,89,36.5,"1,439",469,32.6,"1,135",465,41.0,"2,960",822,27.8
+Y60,Midlands Commissioning Region,RQ3,Birmingham Women's And Children's Hospital NHS Trust,"5,096","1,795",35.2,717,307,42.8,"2,113",760,36.0,"1,126",423,37.6,"1,140",305,26.8
+Y60,Midlands Commissioning Region,TAJ,Black Country Healthcare NHS Foundation Trust,"3,644","1,237",33.9,204,78,38.2,"1,066",373,35.0,547,192,35.1,"1,827",594,32.5
+Y60,Midlands Commissioning Region,RFS,Chesterfield Royal Hospital NHS Foundation Trust,"4,370","2,272",52.0,512,267,52.1,"1,566",602,38.4,648,372,57.4,"1,644","1,031",62.7
+Y60,Midlands Commissioning Region,RYG,Coventry And Warwickshire Partnership NHS Trust,"3,671","1,593",43.4,169,68,40.2,979,427,43.6,669,326,48.7,"1,854",772,41.6
+Y60,Midlands Commissioning Region,RY8,Derbyshire Community Health Services NHS Trust,"2,866","1,557",54.3,68,38,55.9,"1,400",775,55.4,550,336,61.1,848,408,48.1
+Y60,Midlands Commissioning Region,RXM,Derbyshire Healthcare NHS Foundation Trust,"2,445",713,29.2,155,49,31.6,"1,172",320,27.3,"1,000",300,30.0,118,44,37.3
+Y60,Midlands Commissioning Region,NNJ,Dhu Health Care C.I.C,"2,206",819,37.1,25,10,40.0,325,118,36.3,448,177,39.5,"1,407",514,36.5
+Y60,Midlands Commissioning Region,RYK,Dudley Integrated Health And Care NHS Trust,348,67,19.3,2,0,0.0,84,27,32.1,137,22,16.1,112,16,14.3
+Y60,Midlands Commissioning Region,RX9,East Midlands Ambulance Service NHS Trust,"3,883","2,854",73.5,8,3,37.5,36,25,69.4,"2,338","1,746",74.7,"1,501","1,080",72.0
+Y60,Midlands Commissioning Region,RLT,George Eliot Hospital NHS Trust,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y60,Midlands Commissioning Region,R1A,Herefordshire And Worcestershire Health And Care NHS Trust,"3,391","1,516",44.7,148,74,50.0,"1,233",571,46.3,651,310,47.6,"1,359",561,41.3
+Y60,Midlands Commissioning Region,RNQ,Kettering General Hospital NHS Foundation Trust,"3,245","1,216",37.5,523,192,36.7,"1,122",412,36.7,321,162,50.5,"1,279",450,35.2
+Y60,Midlands Commissioning Region,RT5,Leicestershire Partnership NHS Trust,"7,432","3,435",46.2,221,110,49.8,"1,920",953,49.6,969,499,51.5,"4,322","1,873",43.3
+Y60,Midlands Commissioning Region,RY5,Lincolnshire Community Health Services NHS Trust,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y60,Midlands Commissioning Region,RP7,Lincolnshire Partnership NHS Foundation Trust,"2,546",791,31.1,98,33,33.7,641,214,33.4,431,116,26.9,"1,376",428,31.1
+Y60,Midlands Commissioning Region,RRE,Midlands Partnership NHS Foundation Trust,"7,258","2,821",38.9,240,119,49.6,"2,764","1,208",43.7,"1,351",633,46.9,"2,903",861,29.7
+Y60,Midlands Commissioning Region,RLY,North Staffordshire Combined Healthcare NHS Trust,"1,867",916,49.1,77,38,49.4,571,318,55.7,309,157,50.8,853,380,44.5
+Y60,Midlands Commissioning Region,RNS,Northampton General Hospital NHS Trust,"5,659","2,417",42.7,"1,107",497,44.9,"1,717",784,45.7,581,282,48.5,"2,254",854,37.9
+Y60,Midlands Commissioning Region,RP1,Northamptonshire Healthcare NHS Foundation Trust,"4,076","1,290",31.6,129,45,34.9,"1,689",541,32.0,754,293,38.9,"1,504",411,27.3
+Y60,Midlands Commissioning Region,NR3,Nottingham Citycare Partnership,871,443,50.9,2,1,50.0,467,252,54.0,142,86,60.6,260,104,40.0
+Y60,Midlands Commissioning Region,RX1,Nottingham University Hospitals NHS Trust,"14,509","5,746",39.6,"2,495","1,117",44.8,"6,340","2,483",39.2,"2,562","1,133",44.2,"3,112","1,013",32.6
+Y60,Midlands Commissioning Region,RHA,Nottinghamshire Healthcare NHS Trust,"7,967","2,185",27.4,262,82,31.3,"2,852",823,28.9,"1,190",466,39.2,"3,663",814,22.2
+Y60,Midlands Commissioning Region,RXK,Sandwell And West Birmingham Hospitals NHS Trust,"6,476","1,783",27.5,958,450,47.0,"2,506",617,24.6,904,289,32.0,"2,108",427,20.3
+Y60,Midlands Commissioning Region,RK5,Sherwood Forest Hospitals NHS Foundation Trust,"4,679","2,757",58.9,707,444,62.8,"1,769",944,53.4,562,321,57.1,"1,641","1,048",63.9
+Y60,Midlands Commissioning Region,RXW,Shrewsbury And Telford Hospital NHS Trust,"7,095","3,450",48.6,880,473,53.8,"2,232","1,027",46.0,837,458,54.7,"3,146","1,492",47.4
+Y60,Midlands Commissioning Region,R1D,Shropshire Community Health NHS Trust,"1,502",812,54.1,38,21,55.3,622,341,54.8,268,158,59.0,574,292,50.9
+Y60,Midlands Commissioning Region,RJC,South Warwickshire NHS Foundation Trust,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y60,Midlands Commissioning Region,RNA,The Dudley Group NHS Foundation Trust,"5,872","1,250",21.3,"1,022",229,22.4,"2,207",478,21.7,841,205,24.4,"1,802",338,18.8
+Y60,Midlands Commissioning Region,RL1,The Robert Jones And Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,"1,219",597,49.0,158,79,50.0,375,200,53.3,244,131,53.7,442,187,42.3
+Y60,Midlands Commissioning Region,RRJ,The Royal Orthopaedic Hospital NHS Foundation Trust,962,570,59.3,132,93,70.5,316,190,60.1,164,98,59.8,350,189,54.0
+Y60,Midlands Commissioning Region,RL4,The Royal Wolverhampton NHS Trust,"9,629","3,829",39.8,"1,610",742,46.1,"3,558","1,473",41.4,"1,183",514,43.4,"3,277","1,099",33.5
+Y60,Midlands Commissioning Region,RWD,United Lincolnshire Hospitals NHS Trust,"9,279","3,500",37.7,"1,550",400,25.8,"2,946","1,236",42.0,"1,319",600,45.5,"3,464","1,264",36.5
+Y60,Midlands Commissioning Region,RJE,University Hospital Of North Midlands NHS Trust,"9,757","4,676",47.9,"1,391",957,68.8,"4,323","2,002",46.3,"1,375",687,50.0,"2,668","1,030",38.6
+Y60,Midlands Commissioning Region,RRK,University Hospitals Birmingham NHS Foundation Trust,"18,475","5,771",31.2,"2,969","1,090",36.7,"6,374","2,232",35.0,"2,979",924,31.0,"6,143","1,525",24.8
+Y60,Midlands Commissioning Region,RKB,University Hospitals Coventry And Warwickshire NHS Trust,"9,692","2,530",26.1,"1,592",411,25.8,"3,174",899,28.3,"1,420",408,28.7,"3,506",812,23.2
+Y60,Midlands Commissioning Region,RTG,University Hospitals Of Derby And Burton NHS Foundation Trust,"12,348","6,077",49.2,"2,102","1,169",55.6,"4,455","2,374",53.3,"1,623",894,55.1,"4,168","1,640",39.3
+Y60,Midlands Commissioning Region,RWE,University Hospitals Of Leicester NHS Trust,"15,385","5,758",37.4,"2,045",870,42.5,"5,103","2,017",39.5,"1,878",808,43.0,"6,359","2,063",32.4
+Y60,Midlands Commissioning Region,RBK,Walsall Healthcare NHS Trust,"3,593","1,324",36.8,561,253,45.1,"1,657",637,38.4,495,153,30.9,880,281,31.9
+Y60,Midlands Commissioning Region,RYA,West Midlands Ambulance Service University NHS Foundation Trust,"5,239","3,212",61.3,0,0,-,0,0,-,"2,707","1,699",62.8,"2,532","1,513",59.8
+Y60,Midlands Commissioning Region,RWP,Worcestershire Acute Hospitals NHS Trust,"5,899","1,758",29.8,832,243,29.2,"2,388",711,29.8,880,339,38.5,"1,799",465,25.8
+Y60,Midlands Commissioning Region,RLQ,Wye Valley NHS Trust,"3,145","1,104",35.1,417,206,49.4,"1,156",365,31.6,538,257,47.8,"1,034",276,26.7
+Y63,North East and Yorkshire Commissioning Region,RCF,Airedale NHS Foundation Trust,"2,977",881,29.6,392,141,36.0,874,287,32.8,523,179,34.2,"1,188",274,23.1
+Y63,North East and Yorkshire Commissioning Region,RFF,Barnsley Hospital NHS Foundation Trust,"3,183","1,834",57.6,422,328,77.7,"1,283",696,54.2,471,265,56.3,"1,007",545,54.1
+Y63,North East and Yorkshire Commissioning Region,TAD,Bradford District Care NHS Foundation Trust (Trust Based),"2,583","1,295",50.1,123,83,67.5,"1,023",578,56.5,503,235,46.7,934,399,42.7
+Y63,North East and Yorkshire Commissioning Region,RAE,Bradford Teaching Hospitals NHS Foundation Trust,"5,517","1,854",33.6,972,406,41.8,"1,919",662,34.5,608,239,39.3,"2,018",547,27.1
+Y63,North East and Yorkshire Commissioning Region,RWY,Calderdale And Huddersfield NHS Foundation Trust,"5,075","1,968",38.8,829,334,40.3,"1,992",810,40.7,889,335,37.7,"1,365",489,35.8
+Y63,North East and Yorkshire Commissioning Region,NL3,Care Plus Group,629,135,21.5,4,1,25.0,238,42,17.6,45,13,28.9,342,79,23.1
+Y63,North East and Yorkshire Commissioning Region,F1I8R,Conexus Healthcare C.I.C,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y63,North East and Yorkshire Commissioning Region,RXP,County Durham And Darlington NHS Foundation Trust,"6,116","4,464",73.0,611,611,100.0,"2,680","1,743",65.0,"1,035",687,66.4,"1,790","1,423",79.5
+Y63,North East and Yorkshire Commissioning Region,RX4,"Cumbria, Northumberland, Tyne And Wear NHS Foundation Trust","6,527","3,294",50.5,331,280,84.6,"2,536","1,079",42.5,"1,115",935,83.9,"2,545","1,000",39.3
+Y63,North East and Yorkshire Commissioning Region,RP5,Doncaster And Bassetlaw Hospitals NHS Foundation Trust,"4,771","2,037",42.7,592,241,40.7,"1,972",877,44.5,593,325,54.8,"1,614",594,36.8
+Y63,North East and Yorkshire Commissioning Region,RR7,Gateshead Health NHS Foundation Trust,"4,426","2,216",50.1,720,378,52.5,"1,637",837,51.1,819,468,57.1,"1,250",533,42.6
+Y63,North East and Yorkshire Commissioning Region,RCD,Harrogate And District NHS Foundation Trust,"4,098","2,757",67.3,455,319,70.1,"1,872","1,262",67.4,565,405,71.7,"1,119",702,62.7
+Y63,North East and Yorkshire Commissioning Region,RWA,Hull University Teaching Hospitals NHS Trust,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y63,North East and Yorkshire Commissioning Region,RV9,Humber Teaching NHS Foundation Foundation Trust,"2,665","1,314",49.3,98,58,59.2,906,473,52.2,447,282,63.1,"1,212",499,41.2
+Y63,North East and Yorkshire Commissioning Region,AA4,Intrahealth Ltd,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y63,North East and Yorkshire Commissioning Region,RGD,Leeds And York Partnership NHS Foundation Trust,"2,189",875,40.0,210,144,68.6,772,290,37.6,371,185,49.9,836,256,30.6
+Y63,North East and Yorkshire Commissioning Region,RY6,Leeds Community Healthcare NHS Trust,"2,756","1,536",55.7,58,42,72.4,"1,169",698,59.7,748,469,62.7,781,327,41.9
+Y63,North East and Yorkshire Commissioning Region,RR8,Leeds Teaching Hospitals NHS Trust,"14,464","7,036",48.6,"3,128","1,748",55.9,"4,809","2,536",52.7,"2,518","1,437",57.1,"4,009","1,315",32.8
+Y63,North East and Yorkshire Commissioning Region,ARN,Local Care Direct,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y63,North East and Yorkshire Commissioning Region,NL8,Locala Community Partnerships C.I.C,"1,105",710,64.3,45,33,73.3,512,325,63.5,199,138,69.3,343,211,61.5
+Y63,North East and Yorkshire Commissioning Region,RXF,Mid Yorkshire Hospitals NHS Trust,"7,812","3,637",46.6,"1,136",701,61.7,"2,403","1,215",50.6,"1,006",549,54.6,"3,267","1,172",35.9
+Y63,North East and Yorkshire Commissioning Region,NQL,Navigo Health And Social Care C.I.C,706,310,43.9,26,11,42.3,187,85,45.5,141,49,34.8,352,165,46.9
+Y63,North East and Yorkshire Commissioning Region,RNN,North Cumbria Integrated Care NHS Foundation Trust,"6,396","4,934",77.1,557,514,92.3,"2,289","1,318",57.6,875,580,66.3,"2,675","2,522",94.3
+Y63,North East and Yorkshire Commissioning Region,RX6,North East Ambulance Service NHS Foundation Trust,"3,045","1,010",33.2,4,2,50.0,130,50,38.5,"1,026",279,27.2,"1,885",679,36.0
+Y63,North East and Yorkshire Commissioning Region,RVW,North Tees And Hartlepool NHS Foundation Trust,"4,259","2,043",48.0,329,172,52.3,"1,623",798,49.2,714,359,50.3,"1,593",714,44.8
+Y63,North East and Yorkshire Commissioning Region,RJL,Northern Lincolnshire And Goole Hospitals NHS Foundation Trust,"6,822","1,648",24.2,891,173,19.4,"2,210",576,26.1,621,190,30.6,"3,100",709,22.9
+Y63,North East and Yorkshire Commissioning Region,RTF,Northumbria Healthcare NHS Foundation Trust,"6,966","4,309",61.9,877,630,71.8,"2,608","1,618",62.0,916,593,64.7,"2,565","1,468",57.2
+Y63,North East and Yorkshire Commissioning Region,RXE,"Rotherham, Doncaster And South Humber NHS Foundation Trust","3,682","2,000",54.3,82,62,75.6,"1,363",818,60.0,581,363,62.5,"1,656",757,45.7
+Y63,North East and Yorkshire Commissioning Region,RCU,Sheffield Children's NHS Foundation Trust,"2,743","1,716",62.6,406,246,60.6,"1,053",678,64.4,538,371,69.0,746,421,56.4
+Y63,North East and Yorkshire Commissioning Region,TAH,Sheffield Health And Social Care NHS Foundation Trust,"2,086",753,36.1,160,72,45.0,547,174,31.8,466,266,57.1,913,241,26.4
+Y63,North East and Yorkshire Commissioning Region,RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,"11,878","5,503",46.3,"1,833","1,085",59.2,"4,404","1,994",45.3,"2,142","1,191",55.6,"3,499","1,233",35.2
+Y63,North East and Yorkshire Commissioning Region,RTR,South Tees Hospitals NHS Foundation Trust,"8,384","4,092",48.8,"1,042",526,50.5,"3,114","1,595",51.2,"1,453",742,51.1,"2,775","1,229",44.3
+Y63,North East and Yorkshire Commissioning Region,R0B,South Tyneside And Sunderland NHS Foundation Trust,"7,015","4,079",58.1,728,728,100.0,"3,282","1,804",55.0,"1,142",573,50.2,"1,863",974,52.3
+Y63,North East and Yorkshire Commissioning Region,RXG,South West Yorkshire Partnership NHS Foundation Trust,"3,739","1,959",52.4,185,120,64.9,"1,325",685,51.7,757,461,60.9,"1,472",693,47.1
+Y63,North East and Yorkshire Commissioning Region,RX3,"Tees, Esk And Wear Valleys NHS Foundation Trust","7,196","2,910",40.4,292,201,68.8,"2,539","1,013",39.9,"1,144",545,47.6,"3,221","1,151",35.7
+Y63,North East and Yorkshire Commissioning Region,RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,"13,760","9,568",69.5,"2,020","1,766",87.4,"5,653","4,014",71.0,"1,263",831,65.8,"4,824","2,957",61.3
+Y63,North East and Yorkshire Commissioning Region,RFR,The Rotherham NHS Foundation Trust,"4,182","2,164",51.7,564,293,52.0,"1,420",721,50.8,752,463,61.6,"1,446",687,47.5
+Y63,North East and Yorkshire Commissioning Region,RCB,York And Scarborough Teaching Hospitals NHS Foundation Trust,"7,939","2,549",32.1,936,327,34.9,"2,453",800,32.6,"1,333",488,36.6,"3,217",934,29.0
+Y63,North East and Yorkshire Commissioning Region,RX8,Yorkshire Ambulance Service NHS Trust,"6,279","2,020",32.2,6,1,16.7,130,32,24.6,"2,704",905,33.5,"3,439","1,082",31.5
+Y62,North West Commissioning Region,RBS,Alder Hey Children's NHS Foundation Trust,"3,706","1,878",50.7,382,348,91.1,"1,366",650,47.6,430,421,97.9,"1,528",459,30.0
+Y62,North West Commissioning Region,RXL,Blackpool Teaching Hospitals NHS Foundation Trust,"6,385","3,656",57.3,732,634,86.6,"2,642","1,345",50.9,"1,075",555,51.6,"1,936","1,122",58.0
+Y62,North West Commissioning Region,RMC,Bolton NHS Foundation Trust,"4,511","1,154",25.6,452,110,24.3,"2,119",570,26.9,581,176,30.3,"1,359",298,21.9
+Y62,North West Commissioning Region,RY2,Bridgewater Community Healthcare NHS Trust,"1,262",456,36.1,82,25,30.5,573,219,38.2,305,101,33.1,302,111,36.8
+Y62,North West Commissioning Region,RXA,Cheshire And Wirral Partnership NHS Foundation Trust,"3,105","1,429",46.0,135,118,87.4,630,502,79.7,"1,280",334,26.1,"1,036",457,44.1
+Y62,North West Commissioning Region,RJR,Countess Of Chester Hospital NHS Foundation Trust,"4,472","2,505",56.0,567,398,70.2,"1,457",854,58.6,597,372,62.3,"1,851",881,47.6
+Y62,North West Commissioning Region,RJN,East Cheshire NHS Trust,"2,744","1,316",48.0,349,155,44.4,867,431,49.7,"1,073",493,45.9,455,237,52.1
+Y62,North West Commissioning Region,RXR,East Lancashire Hospitals NHS Trust,"8,717","2,961",34.0,792,311,39.3,"2,931",823,28.1,"2,589",892,34.5,"2,405",935,38.9
+Y62,North West Commissioning Region,RXV,Greater Manchester West Mental Health NHS Foundation Trust,"4,127","1,058",25.6,186,63,33.9,"1,622",407,25.1,733,207,28.2,"1,586",381,24.0
+Y63,North West Commissioning Region,NDA,Hcrg Care Services Ltd,684,305,44.6,15,8,53.3,255,130,51.0,187,99,52.9,227,68,30.0
+Y62,North West Commissioning Region,NDA25,Hcrg Care Services Ltd,179,135,75.4,9,5,55.6,68,51,75.0,46,37,80.4,56,42,75.0
+Y62,North West Commissioning Region,NDAJ0,Hcrg Care Services Ltd,429,168,39.2,1,0,0.0,160,71,44.4,60,23,38.3,208,74,35.6
+Y62,North West Commissioning Region,RW5,Lancashire and South Cumbria NHS Foundation Trust,"6,638","2,319",34.9,353,152,43.1,"2,244",809,36.1,"1,100",447,40.6,"2,941",911,31.0
+Y62,North West Commissioning Region,RXN,Lancashire Teaching Hospitals NHS Foundation Trust,"8,746","2,974",34.0,"1,112",432,38.8,"3,085","1,066",34.6,"1,247",463,37.1,"3,302","1,013",30.7
+Y62,North West Commissioning Region,RBQ,Liverpool Heart And Chest NHS Foundation Trust,"1,633",819,50.2,140,100,71.4,651,315,48.4,313,125,39.9,529,279,52.7
+Y62,North West Commissioning Region,REM,Liverpool University Hospitals NHS Foundation Trust,"10,496","5,785",55.1,"1,249","1,183",94.7,"3,833","1,947",50.8,"1,858","1,225",65.9,"3,556","1,430",40.2
+Y62,North West Commissioning Region,REP,Liverpool Women's NHS Foundation Trust,"1,354",560,41.4,283,176,62.2,709,247,34.8,117,54,46.2,245,83,33.9
+Y62,North West Commissioning Region,R0A,Manchester University NHS Foundation Trust,"21,559","7,714",35.8,"2,791","1,139",40.8,"9,355","3,360",35.9,"4,258","1,819",42.7,"5,155","1,396",27.1
+Y62,North West Commissioning Region,RW4,Mersey Care NHS Foundation Trust,"7,953","1,884",23.7,180,89,49.4,"3,414",759,22.2,"1,405",454,32.3,"2,954",582,19.7
+Y62,North West Commissioning Region,RBT,Mid Cheshire Hospitals NHS Foundation Trust,"5,345","2,888",54.0,471,244,51.8,"1,759",939,53.4,703,383,54.5,"2,412","1,322",54.8
+Y62,North West Commissioning Region,RX7,North West Ambulance Service NHS Trust,"6,673","3,209",48.1,3,1,33.3,135,76,56.3,"4,201","2,093",49.8,"2,334","1,039",44.5
+Y62,North West Commissioning Region,RM3,Northern Care Alliance NHS Foundation Trust,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y62,North West Commissioning Region,RT2,Pennine Care NHS Foundation Trust,"3,380","1,295",38.3,108,60,55.6,"1,123",470,41.9,624,282,45.2,"1,525",483,31.7
+Y62,North West Commissioning Region,RBN,St Helens And Knowsley Hospitals NHS Trust,"6,549","3,562",54.4,734,438,59.7,"2,702","1,464",54.2,889,502,56.5,"2,224","1,158",52.1
+Y62,North West Commissioning Region,RWJ,Stockport NHS Foundation Trust,"4,708","1,317",28.0,492,158,32.1,"1,844",497,27.0,731,257,35.2,"1,641",405,24.7
+Y62,North West Commissioning Region,RMP,Tameside And Glossop Integrated Care NHS Foundation Trust,"2,892",839,29.0,328,110,33.5,"1,087",279,25.7,355,134,37.7,"1,122",316,28.2
+Y62,North West Commissioning Region,RBV,The Christie NHS Foundation Trust,"2,448","1,211",49.5,323,167,51.7,973,507,52.1,604,324,53.6,548,213,38.9
+Y62,North West Commissioning Region,REN,The Clatterbridge Cancer Centre NHS Foundation Trust,"1,272",584,45.9,129,59,45.7,451,219,48.6,442,212,48.0,250,94,37.6
+Y62,North West Commissioning Region,RET,The Walton Centre NHS Foundation Trust,"1,197",685,57.2,166,106,63.9,420,259,61.7,288,150,52.1,323,170,52.6
+Y62,North West Commissioning Region,RTX,University Hospitals Of Morecambe Bay NHS Foundation Trust,"5,865","2,876",49.0,571,334,58.5,"2,477","1,186",47.9,810,417,51.5,"2,007",939,46.8
+Y62,North West Commissioning Region,NQT,Virgin Care Ltd,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y62,North West Commissioning Region,RWW,Warrington And Halton Hospitals NHS Foundation Trust,"3,642","1,690",46.4,521,247,47.4,"1,316",641,48.7,688,329,47.8,"1,117",473,42.3
+Y62,North West Commissioning Region,NQT5T,Wiltshire Children Community Services,294,184,62.6,8,3,37.5,155,98,63.2,43,30,69.8,88,53,60.2
+Y62,North West Commissioning Region,RY7,Wirral Community Health And Care NHS Foundation Trust,"1,635",550,33.6,30,3,10.0,795,295,37.1,195,71,36.4,615,181,29.4
+Y62,North West Commissioning Region,RBL,Wirral University Teaching Hospital NHS Foundation Trust,"5,695","2,625",46.1,600,371,61.8,"1,853",899,48.5,781,390,49.9,"2,461",965,39.2
+Y62,North West Commissioning Region,RRF,"Wrightington, Wigan And Leigh NHS Foundation Trust","5,112","1,379",27.0,531,139,26.2,"2,067",561,27.1,768,197,25.7,"1,746",482,27.6
+Y59,South East Commissioning Region,RTK,Ashford And St Peter's Hospitals NHS Foundation Trust,"4,170","1,127",27.0,"1,031",225,21.8,"1,647",492,29.9,456,196,43.0,"1,036",214,20.7
+Y59,South East Commissioning Region,RWX,Berkshire Healthcare NHS Foundation Trust,"4,683","2,056",43.9,314,117,37.3,"1,382",584,42.3,"1,030",516,50.1,"1,957",839,42.9
+Y59,South East Commissioning Region,RXQ,Buckinghamshire Healthcare NHS Trust,"4,516","2,356",52.2,667,378,56.7,"1,731",895,51.7,"1,958",999,51.0,160,84,52.5
+Y59,South East Commissioning Region,NTV,Csh Surrey,828,221,26.7,6,6,100.0,410,107,26.1,166,73,44.0,246,35,14.2
+Y59,South East Commissioning Region,RN7,Dartford And Gravesham NHS Trust,"3,607","1,653",45.8,639,255,39.9,"1,574",796,50.6,369,167,45.3,"1,025",435,42.4
+Y59,South East Commissioning Region,RVV,East Kent Hospitals University NHS Foundation Trust,"7,424","2,724",36.7,"1,342",505,37.6,"3,214",947,29.5,919,516,56.1,"1,949",756,38.8
+Y59,South East Commissioning Region,RXC,East Sussex Healthcare NHS Trust,"5,994","2,302",38.4,784,386,49.2,"2,439",887,36.4,952,577,60.6,"1,819",452,24.8
+Y59,South East Commissioning Region,NDJ,First Community Health And Care C.I.C,481,234,48.6,0,0,-,181,88,48.6,150,86,57.3,150,60,40.0
+Y59,South East Commissioning Region,RDU,Frimley Health NHS Foundation Trust,"11,173","3,409",30.5,"2,203",515,23.4,"3,945","1,498",38.0,"1,351",468,34.6,"3,674",928,25.3
+Y59,South East Commissioning Region,RN5,Hampshire Hospitals NHS Foundation Trust,"6,650","3,442",51.8,"1,237",669,54.1,"2,545","1,263",49.6,869,565,65.0,"1,999",945,47.3
+Y59,South East Commissioning Region,R1F,Isle Of Wight NHS Trust,"3,242","1,186",36.6,293,102,34.8,"1,182",457,38.7,436,152,34.9,"1,331",475,35.7
+Y59,South East Commissioning Region,RXY,Kent And Medway NHS And Social Care Partnership Trust,"3,831","1,976",51.6,227,116,51.1,951,501,52.7,528,282,53.4,"2,125","1,077",50.7
+Y59,South East Commissioning Region,RYY,Kent Community Health NHS Trust,"3,460","1,404",40.6,143,56,39.2,"1,207",496,41.1,818,394,48.2,"1,292",458,35.4
+Y59,South East Commissioning Region,RWF,Maidstone And Tunbridge Wells NHS Trust,"5,480","2,122",38.7,988,363,36.7,"2,207",833,37.7,979,443,45.3,"1,306",483,37.0
+Y59,South East Commissioning Region,NQ7,Medway Community Healthcare,999,367,36.7,25,5,20.0,288,109,37.8,184,100,54.3,502,153,30.5
+Y59,South East Commissioning Region,RPA,Medway NHS Foundation Trust,"3,355","1,338",39.9,535,203,37.9,"1,238",528,42.6,343,138,40.2,"1,239",469,37.9
+Y59,South East Commissioning Region,RNU,Oxford Health NHS Foundation Trust,"6,437","3,169",49.2,608,233,38.3,"1,666",879,52.8,"1,501",763,50.8,"2,662","1,294",48.6
+Y59,South East Commissioning Region,RTH,Oxford University Hospitals NHS Trust,"10,229","5,521",54.0,"2,077","1,199",57.7,"3,840","2,121",55.2,"3,465","1,794",51.8,847,407,48.1
+Y59,South East Commissioning Region,RPG,Oxleas NHS Foundation Trust,"3,685",956,25.9,220,79,35.9,"1,409",373,26.5,"1,021",283,27.7,"1,035",221,21.4
+Y59,South East Commissioning Region,RHU,Portsmouth Hospitals University National Health Service Trust,"7,725","4,183",54.1,"1,544",846,54.8,"2,901","1,662",57.3,"1,018",583,57.3,"2,262","1,092",48.3
+Y59,South East Commissioning Region,RPC,Queen Victoria Hospital NHS Foundation Trust,"1,252",693,55.4,195,80,41.0,247,133,53.8,177,97,54.8,633,383,60.5
+Y59,South East Commissioning Region,RHW,Royal Berkshire NHS Foundation Trust,"4,558","2,372",52.0,823,472,57.4,"1,721",913,53.1,667,359,53.8,"1,347",628,46.6
+Y59,South East Commissioning Region,RA2,Royal Surrey County Hospital NHS Foundation Trust,"3,867","2,654",68.6,795,487,61.3,"1,505","1,034",68.7,784,513,65.4,783,620,79.2
+Y59,South East Commissioning Region,R1C,Solent NHS Trust,"3,143","1,919",61.1,174,132,75.9,947,608,64.2,878,577,65.7,"1,144",602,52.6
+Y59,South East Commissioning Region,RYE,South Central Ambulance Service NHS Trust,"4,692","1,405",29.9,4,3,75.0,18,15,83.3,"2,138",433,20.3,"2,532",954,37.7
+Y59,South East Commissioning Region,RYD,South East Coast Ambulance Service NHS Foundation Trust,"3,009","2,194",72.9,2,2,100.0,0,0,-,"3,007","2,192",72.9,0,0,-
+Y59,South East Commissioning Region,RW1,Southern Health NHS Foundation Trust,"4,732","2,446",51.7,293,165,56.3,"1,890","1,033",54.7,"1,004",519,51.7,"1,545",729,47.2
+Y59,South East Commissioning Region,RXX,Surrey And Borders Partnership NHS Foundation Trust,"2,220","1,170",52.7,237,118,49.8,660,311,47.1,646,330,51.1,677,411,60.7
+Y59,South East Commissioning Region,RTP,Surrey And Sussex Healthcare NHS Trust,"5,000","3,422",68.4,837,582,69.5,"1,687","1,142",67.7,"1,863","1,326",71.2,613,372,60.7
+Y59,South East Commissioning Region,RDR,Sussex Community NHS Trust,"4,462","2,612",58.5,120,72,60.0,"1,733","1,050",60.6,"1,068",712,66.7,"1,541",778,50.5
+Y59,South East Commissioning Region,RX2,Sussex Partnership NHS Foundation Trust,"4,909","2,055",41.9,358,203,56.7,"1,280",580,45.3,"2,946","1,136",38.6,325,136,41.8
+Y59,South East Commissioning Region,RHM,University Hospital Southampton NHS Foundation Trust,"9,511","4,992",52.5,"2,154","1,151",53.4,"3,439","1,849",53.8,"1,427",865,60.6,"2,491","1,127",45.2
+Y59,South East Commissioning Region,RYR,University Hospitals Sussex NHS Foundation Trust,"20,994","6,742",32.1,"2,481",681,27.4,"5,016","1,364",27.2,"5,212","1,452",27.9,"8,285","3,245",39.2
+Y58,South West Commissioning Region,RVN,Avon And Wiltshire Mental Health Partnership NHS Trust,"4,632","1,981",42.8,340,188,55.3,"1,504",712,47.3,878,464,52.8,"1,910",617,32.3
+Y58,South West Commissioning Region,RJ8,Cornwall Partnership NHS Foundation Trust,"4,155","1,644",39.6,148,71,48.0,"1,467",578,39.4,717,319,44.5,"1,823",676,37.1
+Y58,South West Commissioning Region,RWV,Devon Partnership NHS Trust,"3,051","1,506",49.4,151,87,57.6,778,409,52.6,680,362,53.2,"1,442",648,44.9
+Y58,South West Commissioning Region,RBD,Dorset County Hospital NHS Foundation Trust,"4,334","1,501",34.6,672,206,30.7,"1,205",448,37.2,463,206,44.5,"1,994",641,32.1
+Y58,South West Commissioning Region,RDY,Dorset Healthcare University NHS Foundation Trust,"5,258","2,238",42.6,262,143,54.6,"1,975",854,43.2,"1,187",539,45.4,"1,834",702,38.3
+Y58,South West Commissioning Region,RTQ,Gloucestershire Health And Care NHS Foundation Trust,"3,873","1,643",42.4,157,70,44.6,"1,521",608,40.0,810,434,53.6,"1,385",531,38.3
+Y58,South West Commissioning Region,RTE,Gloucestershire Hospitals NHS Foundation Trust,"8,013","4,505",56.2,"1,767",770,43.6,"2,845","1,497",52.6,"1,076",732,68.0,"2,325","1,506",64.8
+Y58,South West Commissioning Region,RN3,Great Western Hospitals NHS Foundation Trust,"6,231","4,248",68.2,870,682,78.4,"2,071","1,333",64.4,641,484,75.5,"2,649","1,749",66.0
+Y58,South West Commissioning Region,RVJ,North Bristol NHS Trust,"7,185","3,685",51.3,"1,436",876,61.0,"2,363","1,187",50.2,"1,261",757,60.0,"2,125",865,40.7
+Y58,South West Commissioning Region,RK9,Plymouth Hospitals NHS Trust,"9,774","4,183",42.8,"1,543",647,41.9,"3,094","1,223",39.5,"1,137",478,42.0,"4,000","1,835",45.9
+Y58,South West Commissioning Region,REF,Royal Cornwall Hospitals NHS Trust,"5,586","2,041",36.5,"1,091",456,41.8,"1,783",651,36.5,679,273,40.2,"2,033",661,32.5
+Y58,South West Commissioning Region,RH8,Royal Devon University Healthcare NHS Foundation Trust,"10,671","5,547",52.0,"1,649",911,55.2,"3,145","1,718",54.6,"1,702",895,52.6,"4,175","2,023",48.5
+Y58,South West Commissioning Region,RD1,Royal United Hospital Bath NHS Trust,"7,650","4,598",60.1,942,604,64.1,"2,284","1,488",65.1,941,624,66.3,"3,483","1,882",54.0
+Y58,South West Commissioning Region,RNZ,Salisbury NHS Foundation Trust,"4,162","2,525",60.7,792,482,60.9,"1,329",849,63.9,710,449,63.2,"1,331",745,56.0
+Y58,South West Commissioning Region,NLX,Sirona Care and Health,"3,577","2,654",74.2,43,39,90.7,"1,077",818,76.0,801,634,79.2,"1,656","1,163",70.2
+Y58,South West Commissioning Region,RH5,Somerset NHS Foundation Trust,"12,206","3,852",31.6,"1,639",476,29.0,"4,084","1,400",34.3,"1,956",665,34.0,"4,527","1,311",29.0
+Y58,South West Commissioning Region,RYF,South Western Ambulance Service NHS Trust,"7,049","3,681",52.2,129,52,40.3,157,74,47.1,"3,615","1,744",48.2,"3,148","1,811",57.5
+Y58,South West Commissioning Region,RA9,Torbay And South Devon NHS Foundation Trust,"5,766","2,481",43.0,659,363,55.1,"1,783",827,46.4,"1,202",589,49.0,"2,122",702,33.1
+Y58,South West Commissioning Region,RA7,University Hospitals Bristol And Weston NHS Foundation Trust,"14,009","6,759",48.2,"2,231","1,355",60.7,"4,177","2,398",57.4,"1,852","1,244",67.2,"5,749","1,762",30.6
+Y58,South West Commissioning Region,R0D,University Hospitals Dorset NHS Foundation Trust,"9,939","3,662",36.8,"1,489",529,35.5,"2,954","1,071",36.3,"1,387",651,46.9,"4,109","1,411",34.3
+Y58,South West Commissioning Region,AXG,"Wiltshire Health And Care, Chippenham Community Hospital",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,England total ,,,"1,176,102","493,078",41.9,"148,351","72,197",48.7,"393,376","169,074",43.0,"215,681","100,469",46.6,"391,106","149,548",38.2
