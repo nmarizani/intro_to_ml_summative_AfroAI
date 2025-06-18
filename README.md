@@ -53,3 +53,18 @@ We implemented and compared five models using different combinations of optimize
 Logistic Regression: Best baseline model; simple and effective.
 NN with RMSprop + L2 (Instance 2): Best overall model for detecting important classes and improving generalization.
 Adam & SGD setups, underperform unless significantly tuned.
+
+## Model Loading
+
+This table outlines how to load both **Logistic Regression** and **Neural Network** models used in this project.
+
+| 🔍 Model Type                | 📂 Load Command                                  | 🧾 Format |
+|------------------------|----------------------------------------------------|--------------------------------------------------|-----------|
+| **Logistic Regression** (Scikit-learn) | `joblib.load('saved_models/model.pkl')`         | `.pkl`    |
+| **Neural Network** (TensorFlow) | `load_model('saved_models/model.h5')`           | `.h5`     |
+
+### ✅ Notes
+- `.pkl` files are for the scikit-learn model: Logistic Regression.
+- `.h5` files store the full Keras model including architecture and trained weights.
+- After loading, models are ready for prediction without retraining.
+
