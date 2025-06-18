@@ -1,4 +1,4 @@
-***AfroAI-VaxDemand: Predicting Regional Vaccine Demand Using Machine Learning***
+# ***AfroAI-VaxDemand: Predicting Regional Vaccine Demand Using Machine Learning***
 
 ***Problem Statement***
 In Africa, the lack of accurate demand forecasting has been a significant barrier to establishing sustainable local vaccine manufacturing. Without reliable insights into when, where, and how much demand exists, manufacturers struggle with overproduction, underproduction, and inefficient supply chains. This often leads to over-reliance on imports, increased costs, and delayed immunization campaigns.
